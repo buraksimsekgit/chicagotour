@@ -1,0 +1,14 @@
+.Title {
+    width: 100%;
+    background-color: black;
+    color: #fff;
+    margin-top: -25px;
+  }
+
+  .Subtitle{
+    color: lightgray;
+  }
+
+  .navs{
+    list-style: none;
+  }
