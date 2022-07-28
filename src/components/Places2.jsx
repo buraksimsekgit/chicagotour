@@ -6,7 +6,7 @@ function Places2(props) {
     <div>
       <img src={`./public/images/${image}`}     
         height="300"
-        alt="Buckingham Fountain is a Chicago Landmark"
+        alt=""
       />
       <h1>{name}</h1>
       <div>{address}</div>
